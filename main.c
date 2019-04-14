@@ -1,6 +1,6 @@
 #include "main.h"
 
-uint8 b; // declared a variable
+uint16 a;
 
 void main ()
 {
